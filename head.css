@@ -1,4 +1,17 @@
 ﻿body {
+    background-color: #222222;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+    color: #c8c8c8;
+}
+
+p {
+    color: #c8c8c8;
+    margin: 20px;
 }
 
 /* Add a black background color to the top navigation */
