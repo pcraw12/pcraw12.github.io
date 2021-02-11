@@ -1,6 +1,6 @@
 ﻿body {
     background-color: #222222;
-    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 h1 {
@@ -9,9 +9,13 @@ h1 {
     color: #c8c8c8;
 }
 
+img {
+    align-content:center;
+}
+
 p {
     color: #c8c8c8;
-    margin: 20px;
+    text-align:center;
 }
 
 /* Add a black background color to the top navigation */
