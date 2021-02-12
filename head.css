@@ -21,6 +21,10 @@ p {
     color: #c8c8c8;
 }
 
+img {
+    border-radius: 50%;
+}
+
 .center {
     display: block;
     margin-left: auto;
