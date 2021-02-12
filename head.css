@@ -11,14 +11,21 @@ h1 {
     color: #c8c8c8;
 }
 
-.image {
-    float: left;
-    margin-top: 4px;
-    margin-right: 4px;
+h3 {
+    text-align: center;
+    font-size: 30px;
+    color: #c8c8c8;
 }
 
 p {
     color: #c8c8c8;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 /* Add a black background color to the top navigation */
