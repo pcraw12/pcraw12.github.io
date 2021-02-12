@@ -1,8 +1,9 @@
-﻿/* body {
+﻿body {
     background-color: #222222;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    box-sizing: border-box;
+    height: 100%;
 }
-*/
 
 h1 {
     text-align: center;
@@ -47,13 +48,6 @@ p {
     color: white;
 }
 
-html, body {
-    background-color: #222C32;
-    height: 100%;
-    font-family: 'Open Sans', sans-serif;
-    box-sizing: border-box;
-}
-
 .cd-container {
     width: 90%;
     max-width: 1080px;
@@ -63,11 +57,11 @@ html, body {
     border-radius: 2px;
 }
 
-    .cd-container::after {
-        content: '';
-        display: table;
-        clear: both;
-    }
+.cd-container::after {
+    content: '';
+    display: table;
+    clear: both;
+}
 
 /* -------------------------------- 
 
